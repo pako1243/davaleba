@@ -1,0 +1,33 @@
+#disappearBtn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #disappearBtn:hover {
+    background-color: #0056b3;
+  }
+  
+
+  #randomTextDiv {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    width: fit-content;
+  }
+  
+
+
+
+  .question {
+    
+    margin-bottom: 10px;
+  }
